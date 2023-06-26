@@ -6,3 +6,5 @@ import random
 
 # réponse 7.18
 
+
+

@@ -8,3 +8,11 @@
 
 # réponse 9.1
 
+my_dict = {
+    'clé_entier': 42,
+    'clé_flottant': 3.14,
+    'clé_chaine': 'Hello, world!',
+    'clé_booléen': True
+}
+
+print(my_dict)

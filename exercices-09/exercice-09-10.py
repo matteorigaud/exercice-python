@@ -15,3 +15,12 @@ my_dict = {
 
 # réponse 9.10
 
+my_dict = {
+    'foo': 42,
+    'bar': 3.14,
+    'baz': 'lorem ipsum',
+    'lorem': True
+}
+
+for key, value in my_dict.items():
+    print("key:", key, "value:", value)

@@ -10,3 +10,11 @@ my_dict = {
 
 # réponse 9.4
 
+my_dict = {
+    'foo': 42,
+    'bar': 3.14,
+    'baz': 'lorem ipsum',
+    'lorem': True
+}
+
+print(my_dict['lorem'])

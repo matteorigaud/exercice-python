@@ -6,9 +6,4 @@ import random
 
 # réponse 7.4
 
-import random
 
-for _ in range(100):
-    r = random.randint(1, 10)
-    if r <= 5:
-        print(r)
